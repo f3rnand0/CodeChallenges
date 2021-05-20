@@ -1,3 +1,5 @@
+package technical.challenges;
+
 import java.time.LocalTime;
 import java.time.format.DateTimeFormatter;
 import java.time.format.DateTimeParseException;
@@ -7,23 +9,23 @@ import java.util.Arrays;
 public class DevsuCodeChallenge {
 
     public static void main(String[] args) {
-//        System.out.println("x=2, y=4, result:" + DevsuCodeChallenge.calcItem1(2,4));
-//        System.out.println("x=3, y=4, result:" + DevsuCodeChallenge.calcItem1(3,4));
-//        System.out.println("x=3, y=10, result:" + DevsuCodeChallenge.calcItem1(3,10));
-//        System.out.println("x=10, y=4, result:" + DevsuCodeChallenge.calcItem1(10,4));
+//        System.out.println("x=2, y=4, result:" + technical.challenges.DevsuCodeChallenge.calcItem1(2,4));
+//        System.out.println("x=3, y=4, result:" + technical.challenges.DevsuCodeChallenge.calcItem1(3,4));
+//        System.out.println("x=3, y=10, result:" + technical.challenges.DevsuCodeChallenge.calcItem1(3,10));
+//        System.out.println("x=10, y=4, result:" + technical.challenges.DevsuCodeChallenge.calcItem1(10,4));
 
-//        System.out.println("x=3, result:" + DevsuCodeChallenge.calcItem2(20));
-//        System.out.println("x=5, result:" + DevsuCodeChallenge.calcItem2(1341));
+//        System.out.println("x=3, result:" + technical.challenges.DevsuCodeChallenge.calcItem2(20));
+//        System.out.println("x=5, result:" + technical.challenges.DevsuCodeChallenge.calcItem2(1341));
 
-//        System.out.println("x=3, result:" + DevsuCodeChallenge.calcItem3odd(3));
-//        System.out.println("x=5, result:" + DevsuCodeChallenge.calcItem3odd(5));
-//        System.out.println("x=8311, result:" + DevsuCodeChallenge.calcItem3odd(8311));
-//        System.out.println("x=3, result:" + DevsuCodeChallenge.calcItem3even(3));
-//        System.out.println("x=5, result:" + DevsuCodeChallenge.calcItem3even(5));
+//        System.out.println("x=3, result:" + technical.challenges.DevsuCodeChallenge.calcItem3odd(3));
+//        System.out.println("x=5, result:" + technical.challenges.DevsuCodeChallenge.calcItem3odd(5));
+//        System.out.println("x=8311, result:" + technical.challenges.DevsuCodeChallenge.calcItem3odd(8311));
+//        System.out.println("x=3, result:" + technical.challenges.DevsuCodeChallenge.calcItem3even(3));
+//        System.out.println("x=5, result:" + technical.challenges.DevsuCodeChallenge.calcItem3even(5));
 
-//        System.out.println("result: " + DevsuCodeChallenge.productSubArray(new Double[]{-3.2, 4.2, 7.0, 5.4,
+//        System.out.println("result: " + technical.challenges.DevsuCodeChallenge.productSubArray(new Double[]{-3.2, 4.2, 7.0, 5.4,
 //                -2.2, -2.5}));
-//        System.out.println("result: " + DevsuCodeChallenge.productSubArray(new Double[]{1.1, -5.7, 4.0, 9.3
+//        System.out.println("result: " + technical.challenges.DevsuCodeChallenge.productSubArray(new Double[]{1.1, -5.7, 4.0, 9.3
 //                , -5.7, 9.9, -1.4, 9.1, 2.0, -5.0, -9.0, 1.0}));
 
         System.out.println("x=1, result:" + DevsuCodeChallenge.calcPairRabbits(1));

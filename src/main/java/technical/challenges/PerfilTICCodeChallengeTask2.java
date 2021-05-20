@@ -1,3 +1,5 @@
+package technical.challenges;
+
 import java.util.Arrays;
 
 public class PerfilTICCodeChallengeTask2 {
