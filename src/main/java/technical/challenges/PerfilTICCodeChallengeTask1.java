@@ -1,3 +1,5 @@
+package technical.challenges;
+
 public class PerfilTICCodeChallengeTask1 {
 
     public static void main(String[] args) {
