@@ -39,7 +39,7 @@ public class TalendlyCodeChallenge1_2 {
 
 
     public static String getBridgeCrash(int height, List<Integer> list) {
-        for (Integer n: list) {
+        for (Integer n : list) {
             if (height > n)
                 return "Will crash on bridge " + list.indexOf(n);
         }

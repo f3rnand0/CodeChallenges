@@ -18,7 +18,7 @@ public class PerfilTICCodeChallengeTask1 {
             return false;
         else {
             int i = 1;
-            while ((A- i) > 1) {
+            while ((A - i) > 1) {
                 if (A % (A - i) == 0)
                     return false;
                 i++;

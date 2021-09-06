@@ -3,7 +3,7 @@ package technical.challenges;
 public class TechnisysCodeChallenge1 {
 
     public static void main(String[] args) {
-        System.out.println("x=1, result:" );
+        System.out.println("x=1, result:");
     }
 
     public static double clockAngles(String sen) {

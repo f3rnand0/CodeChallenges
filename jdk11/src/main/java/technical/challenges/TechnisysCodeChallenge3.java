@@ -12,7 +12,6 @@ import javax.xml.parsers.ParserConfigurationException;
 import java.io.IOException;
 import java.io.StringReader;
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.Collection;
 import java.util.List;
 
@@ -27,7 +26,7 @@ public class TechnisysCodeChallenge3 {
             is.setCharacterStream(new StringReader(xml));
             try {
                 Document doc = db.parse(is);
-                NodeList elements  = doc.getDocumentElement().getElementsByTagName("entry");
+                NodeList elements = doc.getDocumentElement().getElementsByTagName("entry");
                 for (int i = 0; i < elements.getLength(); i++) {
                     Element entry = (Element) elements.item(i);
                     if (entry.getElementsByTagName("message").item(0).getTextContent().equals(message)) {

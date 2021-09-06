@@ -1,6 +1,5 @@
 package jetbrains.academy;
 
-import java.util.Arrays;
 import java.util.Scanner;
 
 public class StringTheory1 {

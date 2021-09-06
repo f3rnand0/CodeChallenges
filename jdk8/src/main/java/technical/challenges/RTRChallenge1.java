@@ -5,8 +5,8 @@ import java.util.Arrays;
 public class RTRChallenge1 {
 
     public static void main(String[] args) {
-        System.out.println("smallest positive integer: " + solution(new int[]{1,3,6,4,1,2}));
-        System.out.println("smallest positive integer: " + solution(new int[]{-1,-3}));
+        System.out.println("smallest positive integer: " + solution(new int[]{1, 3, 6, 4, 1, 2}));
+        System.out.println("smallest positive integer: " + solution(new int[]{-1, -3}));
         System.out.println("smallest positive integer: " + solution(new int[]{0}));
     }
 
