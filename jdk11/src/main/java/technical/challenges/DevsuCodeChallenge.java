@@ -23,9 +23,11 @@ public class DevsuCodeChallenge {
 //        System.out.println("x=3, result:" + technical.challenges.DevsuCodeChallenge.calcItem3even(3));
 //        System.out.println("x=5, result:" + technical.challenges.DevsuCodeChallenge.calcItem3even(5));
 
-//        System.out.println("result: " + technical.challenges.DevsuCodeChallenge.productSubArray(new Double[]{-3.2, 4.2, 7.0, 5.4,
+//        System.out.println("result: " + technical.challenges.DevsuCodeChallenge.productSubArray(new
+//        Double[]{-3.2, 4.2, 7.0, 5.4,
 //                -2.2, -2.5}));
-//        System.out.println("result: " + technical.challenges.DevsuCodeChallenge.productSubArray(new Double[]{1.1, -5.7, 4.0, 9.3
+//        System.out.println("result: " + technical.challenges.DevsuCodeChallenge.productSubArray(new
+//        Double[]{1.1, -5.7, 4.0, 9.3
 //                , -5.7, 9.9, -1.4, 9.1, 2.0, -5.0, -9.0, 1.0}));
 
         System.out.println("x=1, result:" + DevsuCodeChallenge.calcPairRabbits(1));
