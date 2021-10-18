@@ -43,7 +43,7 @@ public class VanHackChallenge1 {
                     String operator = tokenList.get(index - 1);
                     int a = Integer.valueOf(tokenList.get(index));
                     int b = Integer.valueOf(tokenList.get(index + 1));
-                    ast = createAst(null, operator, a, b);
+                   // ast = createAst(null, operator, a, b);
                 }
             }
         }
