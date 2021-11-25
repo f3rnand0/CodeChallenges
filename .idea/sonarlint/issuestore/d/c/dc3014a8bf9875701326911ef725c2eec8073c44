@@ -1,0 +1,32 @@
+
+`
+java:S18546">Remove this useless assignment to local variable "dateFormat".(Ôô’êûÿÿÿÿ8‹í×úĞ/
+Q
+java:S14816"/Remove this unused "dateFormat" local variable.(Ôô’êûÿÿÿÿ8´í×úĞ/
+[
+java:S2130:"9Use "Integer.parseInt" for this string-to-int conversion.(ÔÀûşÿÿÿÿ8¶í×úĞ/
+V
+java:S2130;"9Use "Integer.parseInt" for this string-to-int conversion.(Êë¾«8»í×úĞ/
+I
+java:S2201F",The return value of "plusDays" must be used.(à’Õ÷8Ñí×úĞ/
+U	java:S106I"9Replace this use of System.out or System.err by a logger.(¬ÈÀÏ8Úí×úĞ/
+N
+java:S1144~",Remove this unused private "nextDay" method.(ééªåúÿÿÿÿ8éí×úĞ/
+p
+java:S1104"NMake id a static final constant or non-public and provide accessors if needed.(ÍéÌ‘øÿÿÿÿ8ïí×úĞ/
+x
+java:S1104"VMake customerId a static final constant or non-public and provide accessors if needed.(İ©óôûÿÿÿÿ8ğí×úĞ/
+ƒ
+java:S1104"aMake monthlyPriceInDollars a static final constant or non-public and provide accessors if needed.(ŞöÏúÿÿÿÿ8ğí×úĞ/
+p
+java:S1104'"NMake id a static final constant or non-public and provide accessors if needed.(ÍéÌ‘øÿÿÿÿ8ñí×úĞ/
+m
+java:S1104("PMake name a static final constant or non-public and provide accessors if needed.( şÍ¾8ñí×úĞ/
+y
+java:S1104)"WMake activatedOn a static final constant or non-public and provide accessors if needed.(Šùçûûÿÿÿÿ8ñí×úĞ/
+{
+java:S1104*"YMake deactivatedOn a static final constant or non-public and provide accessors if needed.(†Øˆøÿÿÿÿ8òí×úĞ/
+x
+java:S1104+"VMake customerId a static final constant or non-public and provide accessors if needed.(İ©óôûÿÿÿÿ8òí×úĞ/
+d
+java:S2184?"BCast one of the operands of this division operation to a "double".(”Øˆöøÿÿÿÿ8ªî×úĞ/

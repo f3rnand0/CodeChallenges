@@ -1,0 +1,6 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(­ğ»øÿÿÿÿ8—ğ×úĞ/
+b
+java:S1854"@Remove this useless assignment to local variable "filteredList".(ç¤è¥ûÿÿÿÿ8›ğ×úĞ/
+S
+java:S1481"1Remove this unused "filteredList" local variable.(ç¤è¥ûÿÿÿÿ8Ÿğ×úĞ/
