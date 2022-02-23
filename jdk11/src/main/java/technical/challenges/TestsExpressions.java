@@ -25,8 +25,24 @@ public class TestsExpressions {
         list.set(1, new Integer[]{1,2});
         list.add(1, new Integer[]{1,2});
         List<Integer> list1 = new ArrayList<>();
+        List<String> list2 = new ArrayList<>();
         Collections.sort(list1);
         list1.indexOf(1);
+        Set<Integer> set = new HashSet<>();
+        int[][] array = new int[2][2];
+        int a = array.length;
+        int b = array[2].length;
+        Arrays.sort(array);
+        Set<Integer> membersSet = new HashSet<>();
+        membersSet.add(1);
+        list2.add(a+""+b);
+        Queue q1 = new LinkedList();
+        int[] array1 = {1, 2};
+        Arrays.copyOf(array1, 1);
+        Arrays.sort(array, Comparator.comparingInt(o -> o[0]));
+        Arrays.sort(array1);
+        Map<String,Integer> map = new HashMap<>();
+        map.get();
     }
 
     public static String longestPalindromicSubstring(String str) {
