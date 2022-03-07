@@ -42,7 +42,6 @@ public class TestsExpressions {
         Arrays.sort(array, Comparator.comparingInt(o -> o[0]));
         Arrays.sort(array1);
         Map<String,Integer> map = new HashMap<>();
-        map.get();
     }
 
     public static String longestPalindromicSubstring(String str) {
