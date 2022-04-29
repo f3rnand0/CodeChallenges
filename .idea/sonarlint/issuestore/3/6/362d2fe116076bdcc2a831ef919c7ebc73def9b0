@@ -1,0 +1,16 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ä—¦ö
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Â¡ÐÜ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(‘ÖÙ¥úÿÿÿÿ
+S	java:S106	"9Replace this use of System.out or System.err by a logger.(ÏÊ¸·üÿÿÿÿ
+N	java:S106
+"9Replace this use of System.out or System.err by a logger.(Š Î‡
+S	java:S106"9Replace this use of System.out or System.err by a logger.(‹ã¹†ûÿÿÿÿ
+@
+java:S1659"*Declare "previousChar" on a separate line.(ùòðÐ
+G
+java:S1481",Remove this unused "counter" local variable.(õ“¨Ûúÿÿÿÿ
+L
+java:S5261"1Add explicit curly braces to avoid dangling else.(– åõùÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(—é©
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ØÙ´õÿÿÿÿÿ

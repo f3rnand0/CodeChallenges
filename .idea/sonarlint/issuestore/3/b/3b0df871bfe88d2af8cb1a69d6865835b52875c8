@@ -1,0 +1,25 @@
+
+S	java:S106
+"9Replace this use of System.out or System.err by a logger.(×·†âùÿÿÿÿ
+Q	java:S125	"<This block of commented-out lines of code should be removed.(›»Ä
+C
+java:S1659"(Declare "colAssasin" on a separate line.(îàŸñþÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(æðÕóøÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Õ¿„ý
+h
+java:S3776#"RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(…èÀå
+w
+java:S2234+"\Parameters to searchPath have the same names but not the same order as the method arguments.(‘«Ð½þÿÿÿÿ
+w
+java:S22342"\Parameters to searchPath have the same names but not the same order as the method arguments.(‘«Ð½þÿÿÿÿ
+w
+java:S22349"\Parameters to searchPath have the same names but not the same order as the method arguments.(‘«Ð½þÿÿÿÿ
+w
+java:S2234@"\Parameters to searchPath have the same names but not the same order as the method arguments.(‘«Ð½þÿÿÿÿ
+<
+java:S1168I"&Return an empty array instead of null.(¥¹ï
+m
+java:S3776L"RRefactor this method to reduce its Cognitive Complexity from 73 to the 15 allowed.(÷¬¬áüÿÿÿÿ
+J
+java:S1066G"/Merge this if statement with the enclosing one.(æÜ™Øüÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²²÷ùúÿÿÿÿ

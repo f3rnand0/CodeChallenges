@@ -1,0 +1,14 @@
+
+S	java:S106
+"9Replace this use of System.out or System.err by a logger.(š¸Ýœþÿÿÿÿ
+V	java:S125	"<This block of commented-out lines of code should be removed.(ÀÅÈµúÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(íç½Ð
+S	java:S106"9Replace this use of System.out or System.err by a logger.(‡¹ƒ…ÿÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(÷ â†
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ñˆŽ×
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ûþ®
+S	java:S106"9Replace this use of System.out or System.err by a logger.(´‹¹öþÿÿÿÿ
+E
+java:S1481"/Remove this unused "difference" local variable.(¯š©±
+@
+java:S1659."*Declare "rightPointer" on a separate line.(˜ÄÓ¡

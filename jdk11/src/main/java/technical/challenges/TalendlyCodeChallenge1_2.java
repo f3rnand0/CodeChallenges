@@ -6,6 +6,8 @@ public class TalendlyCodeChallenge1_2 {
     public static boolean isValid(String s) {
         char[] chr = s.toCharArray();
         Stack<Character> stack = new Stack();
+        Stack<String> stack1 = new Stack();
+        //stack.pop("C");
         for (int i = 0; i < chr.length; i++) {
             char c = chr[i];
             if (c == '(' || c == '[' || c == '{')

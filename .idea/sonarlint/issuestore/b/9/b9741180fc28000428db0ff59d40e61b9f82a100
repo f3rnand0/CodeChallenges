@@ -1,0 +1,11 @@
+
+—
+java:S1186	"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Çµí‘
+P	java:S125""<This block of commented-out lines of code should be removed.(¯Ý‡3
+Q	java:S125,"<This block of commented-out lines of code should be removed.( É»ž
+Z
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8‹çî”ý/
+Q
+java:S1128"4Remove this unused import 'java.util.stream.Stream'.(ó÷Ž”8‹çî”ý/
+s
+java:S1488B"]Immediately return this expression instead of assigning it to the temporary variable "cache".(´ù¿„
