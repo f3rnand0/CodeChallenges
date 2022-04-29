@@ -31,4 +31,6 @@ public class TuringCodeChallenge1 {
     public static void main(String[] args) throws Exception {
         System.out.println(callPoints(new String[]{"5", "2", "C", "D", "+"}));
     }
+
+
 }

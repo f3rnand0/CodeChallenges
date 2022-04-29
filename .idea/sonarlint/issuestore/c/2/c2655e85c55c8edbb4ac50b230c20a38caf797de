@@ -1,0 +1,13 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(²¿ßıÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(íÓääÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÇÄ—âùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÄÏØáûÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(­õô
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 37 to the 15 allowed.(ÅùÚÃ
+:
+java:S1659:"Declare "j" on a separate line.(¦¢Éëùÿÿÿÿ
+Q	java:S125f"<This block of commented-out lines of code should be removed.(¦¿ƒğ
+†
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ÅùÚÃ

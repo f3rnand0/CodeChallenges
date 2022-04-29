@@ -1,0 +1,10 @@
+
+N	java:S106	"9Replace this use of System.out or System.err by a logger.(手簢
+N	java:S106"9Replace this use of System.out or System.err by a logger.(手簢
+N	java:S106"9Replace this use of System.out or System.err by a logger.(手簢
+u
+java:S1192	"_Define a constant instead of duplicating this literal "maximumElementWithSmallestSum:" 3 times.(手簢
+f
+java:S3655/"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(菨肇
+f
+java:S3655("PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(镉鷳

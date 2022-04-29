@@ -1,8 +1,8 @@
 package technical.challenges;
 
 import java.util.*;
+import java.util.function.Function;
 import java.util.stream.Collectors;
-import java.util.stream.IntStream;
 
 public class TestsExpressions {
     public static void main(String[] args) {
@@ -18,14 +18,15 @@ public class TestsExpressions {
         System.out.println("false || true: " + (false || true));
         System.out.println("true || false: " + (true || false));
         System.out.println("true || true: " + (true || true));
-        System.out.println(3/2);
+        System.out.println(3 / 2);
         List<Integer[]> list = new ArrayList();
-        list.add(new Integer[]{1,2});
+        list.add(new Integer[]{1, 2});
         list.remove(2);
-        list.set(1, new Integer[]{1,2});
-        list.add(1, new Integer[]{1,2});
+        list.set(1, new Integer[]{1, 2});
+        list.add(1, new Integer[]{1, 2});
         List<Integer> list1 = new ArrayList<>();
         List<String> list2 = new ArrayList<>();
+        Arrays.asList("".split(",")).stream().skip(1).collect(Collectors.toList());
         Collections.sort(list1);
         list1.indexOf(1);
         Set<Integer> set = new HashSet<>();
@@ -35,28 +36,30 @@ public class TestsExpressions {
         Arrays.sort(array);
         Set<Integer> membersSet = new HashSet<>();
         membersSet.add(1);
-        list2.add(a+""+b);
+        list2.add(a + "" + b);
         Queue q1 = new LinkedList();
         int[] array1 = {1, 2};
         Arrays.copyOf(array1, 1);
         Arrays.sort(array, Comparator.comparingInt(o -> o[0]));
         Arrays.sort(array1);
-        Map<String,Integer> map = new HashMap<>();
+        Map<String, Integer> map = new HashMap<>();
+        list2.get(0).split(",", 4);
+
+
     }
 
     public static String longestPalindromicSubstring(String str) {
         char[] array = str.toCharArray();
         List<String> list = new ArrayList<>();
-        String largestPalindrome = str.substring(0,0);
-        for(int i=0; i < array.length; i++) {
-            for(int j=i+1; j < array.length; j++) {
+        String largestPalindrome = str.substring(0, 0);
+        for (int i = 0; i < array.length; i++) {
+            for (int j = i + 1; j < array.length; j++) {
                 String subStr = str.substring(i, j);
-                if (isPalindrome(subStr))
-                    list.add(subStr);
+                if (isPalindrome(subStr)) list.add(subStr);
             }
         }
-        int length=0;
-        for(String p : list){
+        int length = 0;
+        for (String p : list) {
             if (length < p.length()) {
                 length = p.length();
                 largestPalindrome = p;
@@ -66,16 +69,15 @@ public class TestsExpressions {
     }
 
     private static boolean isPalindrome(String str) {
-        str.substring(0,1);
-        int i=0, j = str.length() - 1;
-        if (str.length() == 1)
-            return true;
+        str.substring(0, 1);
+        int i = 0, j = str.length() - 1;
+        if (str.length() == 1) return true;
         while (i < j) {
-            if (str.charAt(i) != str.charAt(j))
-                return false;
+            if (str.charAt(i) != str.charAt(j)) return false;
             i++;
             j--;
         }
         return true;
     }
+
 }

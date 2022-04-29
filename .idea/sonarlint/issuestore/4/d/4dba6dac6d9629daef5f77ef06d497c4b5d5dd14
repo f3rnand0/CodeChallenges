@@ -1,6 +1,16 @@
 
 E
 java:S3740"/Provide the parametrized type for this generic.(€‘¦å
+J
+java:S3740("/Provide the parametrized type for this generic.(í£Š×şÿÿÿÿ
+J
+java:S3740("/Provide the parametrized type for this generic.(í£Š×şÿÿÿÿ
+R
+java:S1854-"7Remove this useless assignment to local variable "map".(¼¥ğ»úÿÿÿÿ
+Q
+java:S1854("6Remove this useless assignment to local variable "q1".(í£Š×şÿÿÿÿ
+R
+java:S1854 "7Remove this useless assignment to local variable "set".(¡ÌË­üÿÿÿÿ
 N	java:S106
 "9Replace this use of System.out or System.err by a logger.(Ì€
 Q	java:S125	"<This block of commented-out lines of code should be removed.(Éš¨Æ
@@ -39,27 +49,35 @@ java:S1125"(Remove the unnecessary boolean literals.(ïŸôÙüÿÿÿÿ
 f
 java:S1764"KCorrect one of the identical sub-expressions on both sides of operator "||"(ïŸôÙüÿÿÿÿ
 S	java:S106"9Replace this use of System.out or System.err by a logger.(²¤áñøÿÿÿÿ
+A
+java:S2201"+The return value of "collect" must be used.(Çô±Ä
+C
+java:S1481 "(Remove this unused "set" local variable.(¡ÌË­üÿÿÿÿ
+B
+java:S1481("'Remove this unused "q1" local variable.(í£Š×şÿÿÿÿ
+C
+java:S1481-"(Remove this unused "map" local variable.(¼¥ğ»úÿÿÿÿ
+?
+java:S2201.")The return value of "split" must be used.(À·—‡
 5
-java:S16597"Declare "j" on a separate line.(³ºÅ„
+java:S1659I"Declare "j" on a separate line.(³ºÅ„
 H
-java:S22016"-The return value of "substring" must be used.(‚—Ü²ûÿÿÿÿ
-Z
-java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8ÊÌşÒÜ/
-Y
-java:S1128"7Remove this unused import 'java.util.stream.IntStream'.(ÙÉ½Ÿùÿÿÿÿ8ËÌşÒÜ/
-S
-java:S2589"8Remove this expression which always evaluates to "false"(¦Œ şûÿÿÿÿ
-M
-java:S2589"7Remove this expression which always evaluates to "true"(ÆúÃú
+java:S2201H"-The return value of "substring" must be used.(‚—Ü²ûÿÿÿÿ
+N
+java:S1128"8Remove this unused import 'java.util.function.Function'.(»³Í
+N
+java:S2589"8Remove this expression which always evaluates to "false"(£èı²
+R
+java:S2589"7Remove this expression which always evaluates to "true"(èîïõşÿÿÿÿ
+R
+java:S2589"7Remove this expression which always evaluates to "true"(«ğÊ™ÿÿÿÿÿ
 S
 java:S2589"8Remove this expression which always evaluates to "false"(Ù»Ä¾üÿÿÿÿ
 R
 java:S2589"7Remove this expression which always evaluates to "true"(ïŸôÙüÿÿÿÿ
-R
-java:S2589"7Remove this expression which always evaluates to "true"(«ğÊ™ÿÿÿÿÿ
-R
-java:S2589"7Remove this expression which always evaluates to "true"(èîïõşÿÿÿÿ
-N
-java:S2589"8Remove this expression which always evaluates to "false"(£èı²
 N
 java:S2589"8Remove this expression which always evaluates to "false"(»‡“Ì
+M
+java:S2589"7Remove this expression which always evaluates to "true"(ÆúÃú
+S
+java:S2589"8Remove this expression which always evaluates to "false"(¦Œ şûÿÿÿÿ
