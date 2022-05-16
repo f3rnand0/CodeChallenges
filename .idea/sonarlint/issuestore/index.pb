@@ -13,8 +13,6 @@ o
 ?jdk11/src/main/java/technical/challenges/ElinvarChallenge2.java,0/d/0d6d52a065f8f799a6fd76eaffc35c07ebb760cf
 o
 ?jdk11/src/main/java/technical/challenges/ElinvarChallenge3.java,3/6/362d2fe116076bdcc2a831ef919c7ebc73def9b0
-r
-Bjdk11/src/main/java/technical/challenges/TuringCodeChallenge1.java,3/a/3a3c19f1500293ae1c4e479deed2ee8b582052ca
 o
 ?jdk11/src/main/java/technical/challenges/VanHackChallenge3.java,7/b/7b0c4428ea20fea7cf1e99876b523fe8360c411d
 o
@@ -32,8 +30,10 @@ l
 o
 ?jdk11/src/main/java/technical/challenges/StakaterChallenge.java,9/9/99a4a405db87d4d7109b5fa844984dd40a7aa2cc
 n
->jdk11/src/main/java/technical/challenges/TestsExpressions.java,4/d/4dba6dac6d9629daef5f77ef06d497c4b5d5dd14
-n
 >jdk11/src/main/java/technical/challenges/AmazonChallenge1.java,7/a/7a980c05a16f80a19014fe7299d5972d2c61c257
 n
 >jdk11/src/main/java/technical/challenges/AmazonChallenge2.java,3/4/34c700c71c5d15538601c43a01d0e7f4e66ea144
+r
+Bjdk11/src/main/java/technical/challenges/TuringCodeChallenge1.java,3/a/3a3c19f1500293ae1c4e479deed2ee8b582052ca
+n
+>jdk11/src/main/java/technical/challenges/TestsExpressions.java,4/d/4dba6dac6d9629daef5f77ef06d497c4b5d5dd14

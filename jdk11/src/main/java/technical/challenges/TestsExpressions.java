@@ -21,7 +21,7 @@ public class TestsExpressions {
         System.out.println(3 / 2);
         List<Integer[]> list = new ArrayList();
         list.add(new Integer[]{1, 2});
-        list.remove(2);
+        list.remove(1);
         list.set(1, new Integer[]{1, 2});
         list.add(1, new Integer[]{1, 2});
         List<Integer> list1 = new ArrayList<>();
@@ -44,9 +44,12 @@ public class TestsExpressions {
         Arrays.sort(array1);
         Map<String, Integer> map = new HashMap<>();
         list2.get(0).split(",", 4);
-
-
+        Queue<Integer> queue = new LinkedList<>();
+        queue.poll();
+        Collections.sort(list2);
+        
     }
+
 
     public static String longestPalindromicSubstring(String str) {
         char[] array = str.toCharArray();

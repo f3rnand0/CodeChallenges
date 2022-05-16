@@ -5,6 +5,22 @@ J
 java:S3740("/Provide the parametrized type for this generic.(í£Š×þÿÿÿÿ
 J
 java:S3740("/Provide the parametrized type for this generic.(í£Š×þÿÿÿÿ
+S
+java:S2589"8Remove this expression which always evaluates to "false"(¦Œ þûÿÿÿÿ
+N
+java:S2589"8Remove this expression which always evaluates to "false"(£èý²
+R
+java:S2589"7Remove this expression which always evaluates to "true"(ïŸôÙüÿÿÿÿ
+S
+java:S2589"8Remove this expression which always evaluates to "false"(Ù»Ä¾üÿÿÿÿ
+R
+java:S2589"7Remove this expression which always evaluates to "true"(«ðÊ™ÿÿÿÿÿ
+N
+java:S2589"8Remove this expression which always evaluates to "false"(»‡“Ì
+M
+java:S2589"7Remove this expression which always evaluates to "true"(ÆúÃú
+R
+java:S2589"7Remove this expression which always evaluates to "true"(èîïõþÿÿÿÿ
 R
 java:S1854-"7Remove this useless assignment to local variable "map".(¼¥ð»úÿÿÿÿ
 Q
@@ -60,24 +76,8 @@ java:S1481-"(Remove this unused "map" local variable.(¼¥ð»úÿÿÿÿ
 ?
 java:S2201.")The return value of "split" must be used.(À·—‡
 5
-java:S1659I"Declare "j" on a separate line.(³ºÅ„
+java:S1659L"Declare "j" on a separate line.(³ºÅ„
 H
-java:S2201H"-The return value of "substring" must be used.(‚—Ü²ûÿÿÿÿ
+java:S2201K"-The return value of "substring" must be used.(‚—Ü²ûÿÿÿÿ
 N
 java:S1128"8Remove this unused import 'java.util.function.Function'.(»³Íž
-N
-java:S2589"8Remove this expression which always evaluates to "false"(£èý²
-R
-java:S2589"7Remove this expression which always evaluates to "true"(èîïõþÿÿÿÿ
-R
-java:S2589"7Remove this expression which always evaluates to "true"(«ðÊ™ÿÿÿÿÿ
-S
-java:S2589"8Remove this expression which always evaluates to "false"(Ù»Ä¾üÿÿÿÿ
-R
-java:S2589"7Remove this expression which always evaluates to "true"(ïŸôÙüÿÿÿÿ
-N
-java:S2589"8Remove this expression which always evaluates to "false"(»‡“Ì
-M
-java:S2589"7Remove this expression which always evaluates to "true"(ÆúÃú
-S
-java:S2589"8Remove this expression which always evaluates to "false"(¦Œ þûÿÿÿÿ
