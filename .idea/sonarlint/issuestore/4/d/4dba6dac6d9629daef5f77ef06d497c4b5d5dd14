@@ -1,83 +1,43 @@
 
 E
-java:S3740"/Provide the parametrized type for this generic.(€‘¦å
+java:S3740"/Provide the parametrized type for this generic.(€‘¦å
 J
-java:S3740("/Provide the parametrized type for this generic.(í£Š×şÿÿÿÿ
+java:S3740"/Provide the parametrized type for this generic.(í£Š×şÿÿÿÿ
 J
-java:S3740("/Provide the parametrized type for this generic.(í£Š×şÿÿÿÿ
-S
-java:S2589"8Remove this expression which always evaluates to "false"(¦Œ şûÿÿÿÿ
-N
-java:S2589"8Remove this expression which always evaluates to "false"(£èı²
-R
-java:S2589"7Remove this expression which always evaluates to "true"(ïŸôÙüÿÿÿÿ
-S
-java:S2589"8Remove this expression which always evaluates to "false"(Ù»Ä¾üÿÿÿÿ
-R
-java:S2589"7Remove this expression which always evaluates to "true"(«ğÊ™ÿÿÿÿÿ
-N
-java:S2589"8Remove this expression which always evaluates to "false"(»‡“Ì
-M
-java:S2589"7Remove this expression which always evaluates to "true"(ÆúÃú
-R
-java:S2589"7Remove this expression which always evaluates to "true"(èîïõşÿÿÿÿ
-R
-java:S1854-"7Remove this useless assignment to local variable "map".(¼¥ğ»úÿÿÿÿ
+java:S3740"/Provide the parametrized type for this generic.(í£Š×şÿÿÿÿ
+J
+java:S37403"/Provide the parametrized type for this generic.(«¾·úÿÿÿÿ
+k
+java:S1149."PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(û›şöıÿÿÿÿ
 Q
-java:S1854("6Remove this useless assignment to local variable "q1".(í£Š×şÿÿÿÿ
+java:S1854"6Remove this useless assignment to local variable "q1".(í£Š×şÿÿÿÿ
 R
-java:S1854 "7Remove this useless assignment to local variable "set".(¡ÌË­üÿÿÿÿ
-N	java:S106
-"9Replace this use of System.out or System.err by a logger.(Ì€
-Q	java:S125	"<This block of commented-out lines of code should be removed.(Éš¨Æ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(¦Œ şûÿÿÿÿ
-C
-java:S1125"(Remove the unnecessary boolean literals.(¦Œ şûÿÿÿÿ
-f
-java:S1764"KCorrect one of the identical sub-expressions on both sides of operator "&&"(¦Œ şûÿÿÿÿ
-N	java:S106"9Replace this use of System.out or System.err by a logger.(£èı²
->
-java:S1125"(Remove the unnecessary boolean literals.(£èı²
-N	java:S106"9Replace this use of System.out or System.err by a logger.(ÆúÃú
->
-java:S1125"(Remove the unnecessary boolean literals.(ÆúÃú
-S	java:S106"9Replace this use of System.out or System.err by a logger.(«ğÊ™ÿÿÿÿÿ
-C
-java:S1125"(Remove the unnecessary boolean literals.(«ğÊ™ÿÿÿÿÿ
-f
-java:S1764"KCorrect one of the identical sub-expressions on both sides of operator "&&"(«ğÊ™ÿÿÿÿÿ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(É ‡µÿÿÿÿÿ
-N	java:S106"9Replace this use of System.out or System.err by a logger.(»‡“Ì
->
-java:S1125"(Remove the unnecessary boolean literals.(»‡“Ì
-a
-java:S1764"KCorrect one of the identical sub-expressions on both sides of operator "||"(»‡“Ì
-S	java:S106"9Replace this use of System.out or System.err by a logger.(Ù»Ä¾üÿÿÿÿ
-C
-java:S1125"(Remove the unnecessary boolean literals.(Ù»Ä¾üÿÿÿÿ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(èîïõşÿÿÿÿ
-C
-java:S1125"(Remove the unnecessary boolean literals.(èîïõşÿÿÿÿ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(ïŸôÙüÿÿÿÿ
-C
-java:S1125"(Remove the unnecessary boolean literals.(ïŸôÙüÿÿÿÿ
-f
-java:S1764"KCorrect one of the identical sub-expressions on both sides of operator "||"(ïŸôÙüÿÿÿÿ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(²¤áñøÿÿÿÿ
+java:S1854"7Remove this useless assignment to local variable "set".(¡ÌË­üÿÿÿÿ
+K
+java:S1854+"5Remove this useless assignment to local variable "c".(¬Á«œ
+Y
+java:S18543">Remove this useless assignment to local variable "linkedList".(«¾·úÿÿÿÿ
+K
+java:S18542"5Remove this useless assignment to local variable "c".(ƒèî‘
+T
+java:S1854."9Remove this useless assignment to local variable "stack".(û›şöıÿÿÿÿ
 A
-java:S2201"+The return value of "collect" must be used.(Çô±Ä
+java:S2201"+The return value of "collect" must be used.(Çô±Ä
 C
-java:S1481 "(Remove this unused "set" local variable.(¡ÌË­üÿÿÿÿ
+java:S1481"(Remove this unused "set" local variable.(¡ÌË­üÿÿÿÿ
 B
-java:S1481("'Remove this unused "q1" local variable.(í£Š×şÿÿÿÿ
-C
-java:S1481-"(Remove this unused "map" local variable.(¼¥ğ»úÿÿÿÿ
+java:S1481"'Remove this unused "q1" local variable.(í£Š×şÿÿÿÿ
 ?
-java:S2201.")The return value of "split" must be used.(À·—‡
-5
-java:S1659L"Declare "j" on a separate line.(³ºÅ„
-H
-java:S2201K"-The return value of "substring" must be used.(‚—Ü²ûÿÿÿÿ
-N
-java:S1128"8Remove this unused import 'java.util.function.Function'.(»³Í
+java:S2201 ")The return value of "split" must be used.(À·—‡
+B
+java:S2201%"'The return value of "get" must be used.(çñƒùûÿÿÿÿ
+M	java:S106'"9Replace this use of System.out or System.err by a logger.(ƒÚáB
+<
+java:S1481*"&Remove this unused "c" local variable.(˜¹ÎŠ
+S	java:S106-"9Replace this use of System.out or System.err by a logger.(Õ§ÛŸûÿÿÿÿ
+E
+java:S1481."*Remove this unused "stack" local variable.(û›şöıÿÿÿÿ
+<
+java:S14812"&Remove this unused "c" local variable.(ƒèî‘
+J
+java:S14813"/Remove this unused "linkedList" local variable.(«¾·úÿÿÿÿ
