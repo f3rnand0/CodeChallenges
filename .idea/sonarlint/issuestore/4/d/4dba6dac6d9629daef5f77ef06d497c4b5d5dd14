@@ -1,43 +1,55 @@
 
 E
-java:S3740"/Provide the parametrized type for this generic.(€‘¦å
+java:S3740	"/Provide the parametrized type for this generic.(€‘¦å
 J
-java:S3740"/Provide the parametrized type for this generic.(í£Š×şÿÿÿÿ
+java:S3740"/Provide the parametrized type for this generic.(í£Š×şÿÿÿÿ
 J
-java:S3740"/Provide the parametrized type for this generic.(í£Š×şÿÿÿÿ
+java:S3740"/Provide the parametrized type for this generic.(í£Š×şÿÿÿÿ
 J
-java:S37403"/Provide the parametrized type for this generic.(«¾·úÿÿÿÿ
+java:S37404"/Provide the parametrized type for this generic.(«¾·úÿÿÿÿ
 k
-java:S1149."PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(û›şöıÿÿÿÿ
+java:S1149/"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(û›şöıÿÿÿÿ
 Q
-java:S1854"6Remove this useless assignment to local variable "q1".(í£Š×şÿÿÿÿ
+java:S1854"6Remove this useless assignment to local variable "q1".(í£Š×şÿÿÿÿ
 R
-java:S1854"7Remove this useless assignment to local variable "set".(¡ÌË­üÿÿÿÿ
+java:S1854"7Remove this useless assignment to local variable "set".(¡ÌË­üÿÿÿÿ
 K
-java:S1854+"5Remove this useless assignment to local variable "c".(¬Á«œ
+java:S1854,"5Remove this useless assignment to local variable "c".(¬Á«œ
 Y
-java:S18543">Remove this useless assignment to local variable "linkedList".(«¾·úÿÿÿÿ
+java:S18544">Remove this useless assignment to local variable "linkedList".(«¾·úÿÿÿÿ
 K
-java:S18542"5Remove this useless assignment to local variable "c".(ƒèî‘
+java:S18543"5Remove this useless assignment to local variable "c".(ƒèî‘
 T
-java:S1854."9Remove this useless assignment to local variable "stack".(û›şöıÿÿÿÿ
+java:S1854/"9Remove this useless assignment to local variable "stack".(û›şöıÿÿÿÿ
+O
+java:S1854B"9Remove this useless assignment to local variable "list5".(³öØ˜
 A
-java:S2201"+The return value of "collect" must be used.(Çô±Ä
+java:S2201"+The return value of "collect" must be used.(Çô±Ä
 C
-java:S1481"(Remove this unused "set" local variable.(¡ÌË­üÿÿÿÿ
+java:S1481"(Remove this unused "set" local variable.(¡ÌË­üÿÿÿÿ
 B
-java:S1481"'Remove this unused "q1" local variable.(í£Š×şÿÿÿÿ
+java:S1481"'Remove this unused "q1" local variable.(í£Š×şÿÿÿÿ
 ?
-java:S2201 ")The return value of "split" must be used.(À·—‡
+java:S2201!")The return value of "split" must be used.(À·—‡
 B
-java:S2201%"'The return value of "get" must be used.(çñƒùûÿÿÿÿ
-M	java:S106'"9Replace this use of System.out or System.err by a logger.(ƒÚáB
+java:S2201&"'The return value of "get" must be used.(çñƒùûÿÿÿÿ
+M	java:S106("9Replace this use of System.out or System.err by a logger.(ƒÚáB
 <
-java:S1481*"&Remove this unused "c" local variable.(˜¹ÎŠ
-S	java:S106-"9Replace this use of System.out or System.err by a logger.(Õ§ÛŸûÿÿÿÿ
+java:S1481+"&Remove this unused "c" local variable.(˜¹ÎŠ
+S	java:S106."9Replace this use of System.out or System.err by a logger.(Õ§ÛŸûÿÿÿÿ
 E
-java:S1481."*Remove this unused "stack" local variable.(û›şöıÿÿÿÿ
+java:S1481/"*Remove this unused "stack" local variable.(û›şöıÿÿÿÿ
 <
-java:S14812"&Remove this unused "c" local variable.(ƒèî‘
+java:S14813"&Remove this unused "c" local variable.(ƒèî‘
 J
-java:S14813"/Remove this unused "linkedList" local variable.(«¾·úÿÿÿÿ
+java:S14814"/Remove this unused "linkedList" local variable.(«¾·úÿÿÿÿ
+N	java:S1065"9Replace this use of System.out or System.err by a logger.(Èş³­
+V	java:S1258"<This block of commented-out lines of code should be removed.(«˜Ö“ûÿÿÿÿ
+N	java:S106@"9Replace this use of System.out or System.err by a logger.(×Æáî
+@
+java:S1481B"*Remove this unused "list5" local variable.(³öØ˜
+N	java:S106D"9Replace this use of System.out or System.err by a logger.(ÄÚ
+C
+java:S1481F"'Remove this unused "ab" local variable.(Ş£‹y8…åÜú°0
+N
+java:S1128"1Remove this unused import 'java.math.BigInteger'.(»Çâ€8‡åÜú°0

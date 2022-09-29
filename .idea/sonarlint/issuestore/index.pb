@@ -35,5 +35,9 @@ n
 >jdk11/src/main/java/technical/challenges/AmazonChallenge2.java,3/4/34c700c71c5d15538601c43a01d0e7f4e66ea144
 r
 Bjdk11/src/main/java/technical/challenges/TuringCodeChallenge1.java,3/a/3a3c19f1500293ae1c4e479deed2ee8b582052ca
+o
+?jdk11/src/main/java/technical/challenges/ZalandoChallenge2.java,d/1/d1f5fc28953972a8103bea0ac731236956a00558
+o
+?jdk11/src/main/java/technical/challenges/ZalandoChallenge3.java,1/6/16e954e90649425b08443fb92ca15bc6ff740036
 n
 >jdk11/src/main/java/technical/challenges/TestsExpressions.java,4/d/4dba6dac6d9629daef5f77ef06d497c4b5d5dd14
