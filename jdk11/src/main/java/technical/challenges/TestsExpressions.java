@@ -1,5 +1,6 @@
 package technical.challenges;
 
+import java.math.BigInteger;
 import java.util.*;
 import java.util.stream.Collectors;
 
@@ -49,6 +50,24 @@ public class TestsExpressions {
         list4.add(ch);
         char c = str.charAt(0);
         List<Integer> linkedList = new LinkedList();
+        System.out.println((5/2));
+        int[] arr1 = new int[100000];
+        Arrays.fill(arr1, 2);
+        //System.out.println(Arrays.toString(arr));
+
+        // Genrtae rnadom integer array
+        Random rd = new Random();
+        int[] arr = new int[10000];
+        for (int i = 0; i < arr.length; i++) {
+            arr[i] = rd.nextInt();
+        }
+        System.out.println(Arrays.toString(arr));
+
+        List<Integer> list5 = Arrays.stream(arr).boxed().collect(Collectors.toList());
+        str = "abc";
+        System.out.println(str.indexOf('d'));
+
+        final String ab = "";
     }
 
 
