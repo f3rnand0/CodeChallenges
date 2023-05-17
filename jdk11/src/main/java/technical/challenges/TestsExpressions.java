@@ -1,8 +1,20 @@
 package technical.challenges;
 
-import java.math.BigInteger;
-import java.util.*;
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.Collections;
+import java.util.Comparator;
+import java.util.HashMap;
+import java.util.HashSet;
+import java.util.LinkedList;
+import java.util.List;
+import java.util.Map;
+import java.util.Queue;
+import java.util.Random;
+import java.util.Set;
+import java.util.Stack;
 import java.util.stream.Collectors;
+import java.util.stream.Stream;
 
 public class TestsExpressions {
     public static void main(String[] args) {
@@ -22,7 +34,6 @@ public class TestsExpressions {
         int a = array.length;
         int b = array[1].length;
         Set<Integer> membersSet = new HashSet<>();
-        membersSet.add(1);
         list2.add(a + "" + b);
         Queue q1 = new LinkedList();
         int[] array1 = {1, 2};
@@ -55,7 +66,7 @@ public class TestsExpressions {
         Arrays.fill(arr1, 2);
         //System.out.println(Arrays.toString(arr));
 
-        // Genrtae rnadom integer array
+        // Generate random integer array
         Random rd = new Random();
         int[] arr = new int[10000];
         for (int i = 0; i < arr.length; i++) {
@@ -68,6 +79,9 @@ public class TestsExpressions {
         System.out.println(str.indexOf('d'));
 
         final String ab = "";
+        Stream stream = Stream.iterate("", (s) -> s + "1");
+        System.out.println(stream.limit(2).map(x -> x+ "2" ));
+        StringBuilder sb = new StringBuilder();
     }
 
 
