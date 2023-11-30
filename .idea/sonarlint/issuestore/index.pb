@@ -75,5 +75,3 @@ Jjdk8/src/main/java/technical/challenges/codility/rest/controller/Task.java,a/9
 Mjdk8/src/main/java/technical/challenges/codility/rest/controller/TaskDto.java,1/d/1d02e44eadbd2b0b070f9b1d6c515e00fdeace90
 €
 Pjdk8/src/main/java/technical/challenges/codility/rest/controller/TaskStatus.java,5/1/51834d30cfde4f40e656c9a9856e3130e6bb6293
-p
-@jdk11/src/main/java/technical/challenges/LinkedListExamples.java,7/b/7b8ee9bc45c1765825456562ad045ac3fdc6d5b1
