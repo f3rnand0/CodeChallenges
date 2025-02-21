@@ -1,5 +1,11 @@
 package technical.challenges.codility.rest.controller;
 
+import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.Id;
+
+import static technical.challenges.codility.rest.controller.TaskStatus.CREATED;
+
 @Entity
 public class Task {
   @Id
